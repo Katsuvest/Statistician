@@ -2,12 +2,11 @@
 
  ## Statements of Accomplishment
 
-|                                            Career Tracks                                             | Completed  |
-| :--------------------------------------------------------------------------------------------------- | :--------: |
-| [Statistician with R](https://github.com/Katsuvest/Statistician/tree/master/Statistician_with_R.pdf) | 14-04-2023 |
+In my pursuit of becoming a **[Statistician](https://github.com/Katsuvest/Statistician/tree/master/Statistician_with_R.pdf)** with a focus on  **[R_Programming](https://github.com/Katsuvest/R_Programming)**, I've completed various courses to build a strong foundation in statistical concepts. 
 
+Courses studied and completed have equipped me with a strong statistical skill set, making me well-prepared to apply advanced statistical methods in various analytical scenarios.
 
-## Completed Courses:
+Here's a summary of my completed courses:
 
 |                                                                           Course                                                                           |  Completed   |                                           Topic                                            |                          Technology                          |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
