@@ -1,13 +1,12 @@
 # Qualifications as a Statistician
 
- ## Statements of Accomplishment
-
 In my pursuit of becoming a **[Statistician](https://github.com/Katsuvest/Statistician/tree/master/Statistician_with_R.pdf)** with a focus on  **[R_Programming](https://github.com/Katsuvest/R_Programming)**, I've completed various courses to build a strong foundation in statistical concepts. 
 
 Courses studied and completed have equipped me with a strong statistical skill set, making me well-prepared to apply advanced statistical methods in various analytical scenarios.
 
 Here's a summary of my completed courses:
 
+## Completed Courses:
 |                                                                           Course                                                                           |  Completed   |                                           Topic                                            |                          Technology                          |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
 | [Analyzing Survey Data in R](https://github.com/Katsuvest/Probability-Statistics/tree/master/Analyzing_Survey_Data_in_R)                                   |  12-Apr-2023 | [Probability-Statistics](https://github.com/Katsuvest/Probability-Statistics/tree/master/) |  [R_Programming](https://github.com/Katsuvest/R_Programming) |
